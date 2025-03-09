@@ -1,5 +1,7 @@
 # Simon Says Game 🎵🎮
 
+Visit this site at: https://samirahamadneh.github.io/Simon-Says/
+
 This is a Simon Says game built using jQuery. The game challenges players to remember and replicate an increasingly difficult sequence of button presses. Each round, the game adds a new step to the sequence, testing your memory and reflexes!
 
 How to Play:
